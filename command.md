@@ -127,3 +127,6 @@ This means another application or process is already listening on port 8080, so 
 The bash: Forwarding: command not found message suggests you may also have copied the output (Forwarding from...) and pasted it into Git Bash. You don't need to execute that line. It is simply informational output from Kubernetes.
 2. Solution 1: Use another port (easiest option)
 Rather than trying to identify what is using port 8080, let's use port 8081.
+
+<img width="959" height="435" alt="Image" src="https://github.com/user-attachments/assets/382a829b-c8b3-42f6-a90d-0d47be68d252" />
+
